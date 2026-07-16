@@ -1,27 +1,25 @@
 # Trainee Management System
 
-A web-based trainee management system developed during my Cooperative Training to simplify trainee registration, clearance management, and administrative processes.
+A web-based application developed using ASP.NET Web Forms during my Cooperative Training to streamline trainee registration, account management, and clearance request processing.
 
 ## Features
 
-- User Registration & Login
-- Trainee Clearance Form
-- Secure File Upload
-- Server-side Validation
-- SQL Server Database Integration
+- User Registration and Authentication
+- Clearance Request Management
+- File Upload
+- Form Validation
 - Administrative Dashboard
-- Responsive User Interface
+- SQL Server Database Integration
 
 ## Technologies
 
 - ASP.NET Web Forms
 - C#
 - Microsoft SQL Server
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Bootstrap
-- Visual Studio
 
 ## My Contribution
 
@@ -33,32 +31,16 @@ My responsibilities included:
 - Improving the user interface
 - Implementing server-side validation
 - Developing secure file upload functionality
-- Integrating SQL Server database operations
 - Testing and debugging
-
-## Project Structure
-
-```text
-WebApp/
-├── Pages/
-├── Content/
-├── Scripts/
-├── Images/
-├── App_Data/
-├── Uploads/
-└── Web.config
-```
 
 ## Getting Started
 
 1. Clone the repository.
 2. Open the solution in Visual Studio.
 3. Restore NuGet packages.
-4. Configure the SQL Server connection string in `Web.config`.
+4. Update the SQL Server connection string in `Web.config`.
 5. Build and run the project.
 
-## Notes
+## Note
 
-This repository is shared for portfolio purposes only.
-
-Any confidential organizational information has been removed before publication.
+This repository is shared for portfolio purposes only. Any confidential or sensitive information has been removed before publication.
